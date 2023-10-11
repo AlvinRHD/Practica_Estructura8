@@ -5,4 +5,4 @@ with open("name.txt", "w") as archivo:
             break
         archivo.write(nombre + "\n")
 
-print("Nombres guardados en 'nombres.txt'.")
+print("Nombres guardados en 'nombres.txt'...")

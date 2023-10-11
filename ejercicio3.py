@@ -3,4 +3,4 @@ try:
         contenido = archivo.read()
     print(contenido)
 except FileNotFoundError:
-    print("El archivo no existe, escribelo nuevamente, thanks")
+    print("El archivo no existe, escribelo nuevamente, thanksss")
